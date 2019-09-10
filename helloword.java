@@ -3,6 +3,6 @@ public static void main(String[] agrs){
 	System.out.println("helloword");
 System.out.println("1")
 	System.out.println("helloword");
-System.out.println("5646456456Ww");
+System.out.println("564645");
 
 }
